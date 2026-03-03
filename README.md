@@ -2,8 +2,6 @@
 
 > A web application to help you find your next rental property.
 
-<img src="/public/images/screen.jpg" />
-
 ## Features
 
 - [x] User authentication with Google & Next Auth
